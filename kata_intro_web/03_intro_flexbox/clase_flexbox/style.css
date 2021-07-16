@@ -1,0 +1,17 @@
+.padre {
+  border: 2px solid ;
+  height: 600px;
+  display: flex;
+  /* hace mis elementos en columna  */
+  flex-direction: column;
+  /* hacee msi elementos en columna */
+  justify-content: center;
+  /* acomoda los elementos en el eje y */
+  align-items: center;
+}
+
+.hijo {
+  border: 2px solid blue;
+  width: 40%;
+  height: 30%;
+}

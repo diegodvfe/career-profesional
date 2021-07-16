@@ -1,0 +1,25 @@
+body {
+  margin:0;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.cuadro1 {
+  border: 1px solid pink;
+  height: 40vh;
+  width: 40vh;
+  background-color: blue;
+  position: absolute;
+  top: 40px;
+  left: 300px;
+}
+
+.cuadro2 {
+  border: 1px solid pink;
+  height: 60vh;
+  width: 35vh;
+  position: relative;
+
+}

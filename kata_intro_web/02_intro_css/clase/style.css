@@ -1,0 +1,39 @@
+h1 {
+  border: 1px black solid;
+  width: 400px;
+/*
+  margin-left: 350px;
+  margin-right: 100px;
+  margin-top: 50px;
+  margin-bottom: 200px;
+           /* x     y */
+  /* margin: 100px 50px; */
+
+       /* top right bottom left */
+  /* margin: 50px 80px 20px 100px; */
+
+  /* margin: 50px; */
+
+}
+
+h2 {
+  border: 1px solid red ;
+  /* especifica
+  padding-top: 100px;
+  padding-right: 100px;
+  padding-top: 50px;
+  padding-bottom: 200px; */
+           /* x      y */
+  /* padding: 100px 50px; */
+
+       /* top right bottom left */
+  /* padding: 50px 80px 20px 100px; */
+  /* padding: 50px; */
+
+}
+
+a {
+  display:inline-block;
+  border: 1px solid blue;
+
+}

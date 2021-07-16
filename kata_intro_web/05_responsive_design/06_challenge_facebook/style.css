@@ -1,0 +1,37 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: rgb(253, 253, 253);
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(223, 31, 31);
+  /* box-shadow: whitesmoke; */
+  height: 20em;
+  width: 20em;
+}
+
+.uno {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 45px;
+  background-color:rgb(218, 215, 215);
+}
+
+img {
+  height: 40px;
+  width: 36px;
+}

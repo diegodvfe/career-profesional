@@ -1,9 +1,9 @@
- 
+
 
 //  challenge contra la pc
 
 
-let  userAnswer = prompt('Ingrese piedra, papel o tijera')
+let  userAnswer = console.log('Ingrese piedra, papel o tijera');
 
 // Pc Answwer
 let pcAnswer = ''

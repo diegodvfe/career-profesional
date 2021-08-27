@@ -22,13 +22,13 @@
 // === ---> comparar identicamente
 // !==  --> diferente de
 
-// let numero = 10;
+let numero = 10;
 
-// if (numero === '10' ){
-//   console.log('Es verdader')
-// } else {
-//   console.log('es falso')
-// }
+if (numero === '10' ){
+  console.log('Es verdader')
+} else {
+  console.log('es falso')
+}
 
 //  Modulo -> % -> es el resuido de la division
 
@@ -59,20 +59,20 @@ if (valueNumber %2 === 0 ) {
 // si si eres mayor de 90 --> ya no puedes conducir
 
 
-// let askAge = prompt('Cual es tu edad?');
-// let valueName = Number(askAge);
+let askAge = prompt('Cual es tu edad?');
+let valueName = Number(askAge);
 
 
 
-// if (valueName >= 18 && valueName <= 90){
-//   console.log('Puedes conducir');
-// } else if (valueName ===16 || valueName === 17) {
-//   console.log('puedes sacar tu permiso para conducir')
-// } else if (valueName <=16 || valueName >= 90 ) {
-//   console.warn('No puedes conducir :/');
-// } else {
-//   console.error('No es una edad valida, intentalo de nuevo');
-// }
+if (valueName >= 18 && valueName <= 90){
+  console.log('Puedes conducir');
+} else if (valueName ===16 || valueName === 17) {
+  console.log('puedes sacar tu permiso para conducir')
+} else if (valueName <=16 || valueName >= 90 ) {
+  console.warn('No puedes conducir :/');
+} else {
+  console.error('No es una edad valida, intentalo de nuevo');
+}
 
 
 // ------Challenge 2 -------

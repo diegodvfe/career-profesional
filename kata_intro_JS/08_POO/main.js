@@ -17,10 +17,10 @@ class Animal {
 
 }
 
-const gato = new Animal('felino', 4, 'miu')
-const coco = new Animal('reptil', 4)
-const spider = new Animal('aracnico', 8)
-const perro = new Animal('felino', 4)
+const gato = new Animal('felino', 4, 'miu');
+const coco = new Animal('reptil', 4);
+const spider = new Animal('aracnico', 8);
+const perro = new Animal('felino', 4);
 
 
 console.log(gato);
